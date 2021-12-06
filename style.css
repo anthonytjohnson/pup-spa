@@ -97,11 +97,11 @@ img {
 }
 
 .one {
-
+  grid-column: span 3;
 }
 
 .two {
-
+  grid-column: span 3;
 }
 
 footer {
